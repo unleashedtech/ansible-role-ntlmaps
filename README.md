@@ -1,5 +1,7 @@
 # ntlmaps - Ansible Role
 
+[![Ansible Role](https://img.shields.io/ansible/role/43924.svg)](https://galaxy.ansible.com/unleashedtech/newrelic_php)
+[![Build Status](https://travis-ci.org/unleashedtech/ansible-role-ntlmaps.svg?branch=master)](https://travis-ci.org/unleashedtech/ansible-role-ntlmaps)
 [![GitHub tag](https://img.shields.io/github/tag/unleashedtech/ansible-role-ntlmaps.svg)](https://github.com/unleashedtech/ansible-role-ntlmaps/tags)
 [![license](https://img.shields.io/github/license/unleashedtech/ansible-role-ntlmaps.svg)](https://github.com/unleashedtech/ansible-role-ntlmaps/blob/master/LICENSE)
 

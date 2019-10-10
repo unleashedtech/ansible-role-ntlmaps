@@ -13,4 +13,6 @@ galaxy_info:
     - bionic
   galaxy_tags:
     - ntlmaps
+    - ntlm
+    - proxy
 dependencies: []
