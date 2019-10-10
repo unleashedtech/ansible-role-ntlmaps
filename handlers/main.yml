@@ -1,0 +1,6 @@
+---
+
+- name: restart ntlmaps
+  service:
+    name: ntlmaps
+    state: restarted

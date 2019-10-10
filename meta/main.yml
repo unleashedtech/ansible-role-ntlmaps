@@ -1,0 +1,16 @@
+galaxy_info:
+  role_name: ntlmaps
+  author: Colin O'Dell
+  description: Installs and configures ntlmaps
+  company: Unleashed Technologies
+  issue_tracker_url: https://github.com/unleashedtech/ansible-role-ntlmaps/issues
+  license: MIT
+  min_ansible_version: 2.3
+  platforms:
+  - name: Ubuntu
+    versions:
+    - xenial
+    - bionic
+  galaxy_tags:
+    - ntlmaps
+dependencies: []

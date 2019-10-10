@@ -1,0 +1,21 @@
+ntlmaps_listen_port: "5865"
+ntlmaps_parent_proxy_port: "8080"
+ntlmaps_parent_proxy_timeout: "15"
+ntlmaps_allow_external_clients: false
+ntlmaps_friendly_ips: ""
+ntlmaps_url_log: false
+ntlmaps_max_connection_backlog: "5"
+ntlmaps_client_headers: |
+  Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/vnd.ms-excel, application/msword, application/vnd.ms-powerpoint, */*
+  User-Agent: Mozilla/4.0 (compatible; MSIE 5.5; Windows 98)
+
+ntlmaps_auth_nt_hostname: ""
+ntlmaps_auth_lm_part: true
+ntlmaps_auth_nt_part: false
+ntlmaps_auth_ntlm_flags: "06820000"
+ntlmaps_auth_ntlm_to_basic: false
+
+ntlmaps_debug: false
+ntlmaps_bin_debug: false
+ntlmaps_scr_debug: false
+ntlmaps_auth_debug: false
